@@ -35,7 +35,7 @@ export default function Home() {
                     <Image className="float-right" src="/treble.svg" alt="Treble cleff vector art" width="100" height="200" />
                 </Col>
                 <Col height="50vh" className="mr-4 d-flex align-items-center" fluid="s" s={8} md={6} lg={4}>
-                    <h4 className="mt-4 mr-4">
+                    <h4 className="mt-4 mr-4 big-head">
                       TriCo Jams is a student-run,
                         passion-driven site for finding
                         jam sessions in the Swarthmore/

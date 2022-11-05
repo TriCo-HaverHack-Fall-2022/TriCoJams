@@ -40,10 +40,42 @@ export default function Form() {
     const data = React.useMemo(
         () => [
             {
+                session: "Thursday Night Jams",
+                genre: "Jazz",
+                date: "10/01/22",
+                time: "10:00 PM",
+                location: "Parrish Hall, Swarthmore",
+                roles: "Drummer, Bassist, Guitarist, Keyboardist..."
+            },
+            {
+                session: "Tuesday Night Jam",
+                genre: "Classical",
+                date: "11/05/22",
+                time: "5:00 PM",
+                location: "LPAC Building, Swarthmore",
+                roles: "Drummer, Bassist, Guitarist, Keyboardist..."
+            },
+            {
+                session: "Wednesday Night Jams",
+                genre: "Blues",
+                date: "11/12/22",
+                time: "2:00 PM",
+                location: "Music Hall, Swarthmore",
+                roles: "Drummer, Bassist, Guitarist, Keyboardist..."
+            },
+            {
                 session: "Friday Night Jams",
+                genre: "Reggae",
+                date: "11/16/22",
+                time: "4:00 PM",
+                location: "LANG Music, Swarthmore",
+                roles: "Drummer, Bassist, Guitarist, Keyboardist..."
+            },
+            {
+                session: "Saturday Night Jams",
                 genre: "Any",
-                date: "11/11/22",
-                time: "7:00 PM",
+                date: "12/06/22",
+                time: "9:00 PM",
                 location: "Parrish Hall, Swarthmore",
                 roles: "Drummer, Bassist, Guitarist, Keyboardist..."
             },

@@ -27,7 +27,7 @@ export default function Host() {
                     <Image className="float-right" src="/treble.svg" alt="Treble cleff vector art" width="100" height="200" />
                 </Col>
                 <Col className="mr-4 mt-4 d-flex justify-content-start align-items-center " fluid="s" s={8} md={6} lg={4}>
-                    <h1 className="mt-4 mr-4 ">
+                    <h1 className="mt-4 mr-4 big-head">
                         Host
                     </h1>
                 </Col>
